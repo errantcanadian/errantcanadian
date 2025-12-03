@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @errantcanadian / Trystan Goetze.
 - 🤷 I take they/them pronouns.
-- 🦉 I have a Ph.D. in Philosophy and currently work as a Senior Lecturer and Director of the [Bovay Program in the History and Ethics of Professional Engineering](https://ethics.engineering.cornell.edu/) at Cornell University.
+- 🦉 I have a Ph.D. in Philosophy and currently work as the Bovay Director and Assistant Teaching Professor of the [History and Ethics of Professional Engineering](https://ethics.engineering.cornell.edu/) at Cornell University.
 - 🧑‍🏫 My teaching is focused on the ethics of engineering, computing, and artificial intelligence.
 - 📝 My research is on computer ethics, moral and epistemic responsibility, and epistemic injustice. You can learn more at my [PhilPeople page](https://philpeople.org/profiles/trystan-s-goetze).
 - 👀 I’m interested in problems that can best be solved by combining expertise across computer science, engineering, and philosophy.
